@@ -1,2 +1,2 @@
 # python-pdf-template
- Helps with creating PDFs with python and markdown
+ Helps with setting up python environments to create PDFs with jupyter notebooks and markdown
